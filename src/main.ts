@@ -48,7 +48,7 @@ export default class LiteratureTrackerPlugin extends Plugin implements Literatur
       callback: handleAsync("Zotero import failed", () => this.importFromZotero()),
     });
     this.addCommand({
-      id: "open-literature-tracker",
+      id: "open-panel",
       name: "Open panel",
       callback: handleAsync("Could not open Literature Tracker", () => this.openPanel()),
     });

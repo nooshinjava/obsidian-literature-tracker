@@ -1,7 +1,7 @@
 {
   "id": "literature-tracker",
   "name": "Literature Tracker",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "minAppVersion": "1.7.2",
   "description": "Track your reading, categorize papers, write paper notes and import from Zotero.",
   "author": "Nooshin Javaheripour",

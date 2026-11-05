@@ -9,7 +9,7 @@ await build({
   platform: "browser",
   target: "es2020",
   external: ["obsidian", "electron", "@codemirror/*", "@lezer/*"],
-  banner: { js: "/* Literature Tracker 2.0.0 — https://github.com/nooshinjava/obsidian-literature-tracker */" },
+  banner: { js: "/* Literature Tracker 2.0.1 — https://github.com/nooshinjava/obsidian-literature-tracker */" },
   legalComments: "none",
   logLevel: "info",
 });
